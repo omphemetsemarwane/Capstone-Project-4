@@ -1,0 +1,14 @@
+Total Users,5
+The Total Tasks Assigned To,admin,2
+The Total Tasks Assigned To,omphemetse,1
+The Total Tasks Assigned To,atlegang,1
+The Total Tasks Assigned To,thulaganyo,1
+The Total Percentage of Tasks Assigned To,admin,40%
+The Total Percentage of Tasks Assigned To,omphemetse,20%
+The Total Percentage of Tasks Assigned To,atlegang,20%
+The Total Percentage of Tasks Assigned To,thulaganyo,20%
+The Total Percentage of Complete Tasks Assigned To,admin,50%
+The Total Percentage of Incomplete Tasks Assigned To,omphemetse,100%
+The Total Percentage of Incomplete Tasks Assigned To,atlegang,100%
+The Total Percentage of Incomplete Tasks Assigned To,thulaganyo,100%
+Total Percentage of Incomplete Due Tasks Assigned To,atlegang,100%
